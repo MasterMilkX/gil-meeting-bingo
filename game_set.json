@@ -39,6 +39,13 @@
         "\"Any announcements?\"",
         "Someone usually virtual is in person",
         "Presenter has technical difficulties",
-        "A person walks by the windows during the meeting"
+        "A person walks by the windows during the meeting",
+        "A Youtube video is shown",
+        "LLMs",
+        "Looking up a research paper",
+        "Equations or Greek Symbols",
+        "Meeting ends early",
+        "Less than 7 people in person",
+        "A conference deadline is mentioned"
     ]
 }
