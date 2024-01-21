@@ -30,7 +30,7 @@
         "$5 model",
         "Newest paper from the lab is mentioned",
         "Someone virtual doesn't have camera on",
-        "Someone in the middle of lunch when the meeting starts",
+        "Someone in the middle of eating when the meeting starts",
         "Someone coding during a presentation",
         "Someone editing slides during a presentation",
         "Twitter",
@@ -46,6 +46,7 @@
         "Equations or Greek Symbols",
         "Meeting ends early",
         "Less than 7 people in person",
-        "A conference deadline is mentioned"
+        "A conference deadline is mentioned",
+        "Someone asleep during the meeting"
     ]
 }
