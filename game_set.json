@@ -47,6 +47,7 @@
         "Meeting ends early",
         "Less than 7 people in person",
         "A conference deadline is mentioned",
-        "Someone asleep during the meeting"
+        "Someone asleep during the meeting",
+        "Shouren asks if something is a chair"
     ]
 }
